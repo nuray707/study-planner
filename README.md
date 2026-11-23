@@ -1,1 +1,1 @@
-# Study Planner(SDU edition )
+# Study Planner (SDU edition )
